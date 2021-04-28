@@ -18,5 +18,5 @@
 
 
 
-![dfranzzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfranzzzzz&show_icons=true&theme=blueberry)
+![dfranzzzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfranzzzzz&show_icons=true&theme=algolia)
 
