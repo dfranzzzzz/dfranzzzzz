@@ -1,5 +1,5 @@
 
-### Hi there 👋 I am Franz Elijah O. Decinal. Graduating student of BS Computer Engineering in Mapua University. I've just started loving programming and I'm passionate about it. I see myself improving in this aspect and learning/adapting new technologies over the coming years.
+### Hi there 👋 I am Franz Elijah O. Decinal. Graduating student of BS Computer Engineering in Mapua University. I've just started loving programming and I'm passionate about it. I see myself improving in this aspect as I learn/adapt new technologies over the coming years.
 ### I aspire to be a fullstack web and mobile developer, and maybe study DevOps and Cyber Security as my career progresses.
 
 ## ⚡ Technologies & Tools
@@ -9,10 +9,11 @@
 ![SASS](https://img.shields.io/badge/-Sass-000?style=flat&logo=sass&logoColor=white&color=ff69b4)
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=critical)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white&color=218291)
+![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=yellow&color=blue)
 
 ### For the time being:
-- 🔭 I’m currently working on ... being a frontend developer.
-- 🌱 I’m currently learning ... more Javascript to solidify my fundamentals before transitioning to a frontend framework.
+- 🔭 I’m working on ... being a frontend developer.
+- 🌱 I’m learning ... more Javascript to solidify my fundamentals before transitioning to a frontend framework.
 
 I was studying Ruby and Ruby on Rails, but I decided to switch in learning the MERN stack for web and mobile dev.
 
