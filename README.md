@@ -10,10 +10,12 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-000?style=flat&logo=ruby&logoColor=white&color=critical)
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python&logoColor=white&color=218291)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?style=flat&logo=firebase&logoColor=yellow&color=blue)
+![Webpack](https://img.shields.io/badge/-Webpack-000?style=flat&logo=webpack&logoColor=white&color=blue)
+
 
 ### For the time being:
 - 🔭 I’m working on ... being a frontend developer.
-- 🌱 I’m learning ... more Javascript to solidify my fundamentals before transitioning to a frontend framework.
+- 🌱 I’m learning ... React JS
 
 I was studying Ruby and Ruby on Rails, but I decided to switch in learning the MERN stack for web and mobile dev.
 
